@@ -29,4 +29,4 @@ The exercises explore mathematical series, numerical approximations, and binary 
 - Matplotlib  
 
 ## 📈 Author
-Developed by *[Tu Nombre]* as part of the **Programming in Scientific Python** coursework.
+Developed by *[Carolina Andrea Rodas Castañeda]* as part of the **Metodos Computacionales** coursework.
