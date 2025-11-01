@@ -27,7 +27,15 @@ $\pi$ Convergence Analysis //LAB_2
 This exercise focuses on **efficiency and error** by comparing two $\pi$ approximation methods:
 
 * **Convergence Plot:** A figure is generated to compare the approximate $\pi$ values obtained by two distinct methods (e.g., Maclaurin and Leibniz series) as a function of the number of performed iterations.
-* **Analysis:** The project determines which method achieves **faster convergence** and which requires **fewer terms** to reach a desired accuracy.
+* **Analysis:** The project determines which method achieves **faster convergence** and which requires **fewer terms** to reach a desired accuracy.*
+
+* ### 3. Taylor Expansion and Truncation Error //LAB_3
+
+Implementation and analysis of a function's **Taylor series expansion** to study truncation error.
+
+* **Taylor Expansion:** A chosen function is expanded around a point $x_0$ up to an order $N$.
+* **Visualization:** The Taylor expansions for various orders $N$ are plotted alongside the exact function (using NumPy) .
+* **Error Analysis:** Discussion on the nature and magnitude of the **truncation error** introduced by limiting the number of terms.
 
 ## ⚙️ Technologies Used
 
