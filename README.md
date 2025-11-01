@@ -29,7 +29,7 @@ This exercise focuses on **efficiency and error** by comparing two $\pi$ approxi
 * **Convergence Plot:** A figure is generated to compare the approximate $\pi$ values obtained by two distinct methods (e.g., Maclaurin and Leibniz series) as a function of the number of performed iterations.
 * **Analysis:** The project determines which method achieves **faster convergence** and which requires **fewer terms** to reach a desired accuracy.*
 
-* ### 3. Taylor Expansion and Truncation Error //LAB_3
+  Taylor Expansion and Truncation Error //LAB_3
 
 Implementation and analysis of a function's **Taylor series expansion** to study truncation error.
 
